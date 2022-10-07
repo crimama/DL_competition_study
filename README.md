@@ -19,12 +19,16 @@
 **대상**
 - 기본 베이스라인을 1번이라도 짜본 경험이 있는 
 
-**참고 교재** 
+**참고 Material** 
 - 이전 스터디에서 교재가 있으면 좋겠다 라는 피드백이 있어 가져와 보았습니다. 
 - 이 책을 다 따라가며 할 것은 아니지만 스터디를 진행하며 참고하면 좋겠다고 생각한 것들을 가져왔습니다. 
+- [3분 파이토치](https://github.com/keon/3-min-pytorch)
+- [머신러닝,딥러닝 문제해결 전략](http://www.yes24.com/Product/Goods/108802734)
+- [혼공 머신러닝,딥러닝](https://hongong.hanbit.co.kr/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D/)
+- [Keras Example](https://keras.io/examples/)
+- [케라스 공식 튜토리얼](https://keras.io/ko/)
+- [도형쌤 자료](https://github.com/dhrim/2022_DL_competition_study/blob/master/material_index.md)
 
-**참고 Material** 
-- [Material](https://github.com/dhrim/2022_DL_competition_study/blob/master/material_index.md)
 
 # 진행 방법 
 
@@ -40,6 +44,7 @@
 
 # 커리큘럼 
 - 해당 커리 큘럼은 진행하며 변경될 수 있습니다. 
+- 기본적으로 케라스 기반으로 진행이 될 예정이지만 파이토치로 하고싶으시면 말씀해주세요 ㅎ
 ## 0차 : OT 
 
 ## 1차 : 기본 베이스라인 구축 
