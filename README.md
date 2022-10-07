@@ -47,7 +47,7 @@
 - 기본적으로 케라스 기반으로 진행이 될 예정이지만 파이토치로 하고싶으시면 말씀해주세요 ㅎ
 ## 0차 : OT 
 
-## 1차 : 데이터 로드 및 전처리 
+## 1차 : [데이터 로드 및 전처리](https://github.com/crimama/DL_competition_study/blob/main/class1_mission.md)
 
 ## 2차 : 모델 구축 및 학습 (기본 베이스라인) 
 
