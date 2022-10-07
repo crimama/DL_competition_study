@@ -27,9 +27,18 @@
 
 ## 3단계 - 라벨 데이터 전처리 
 - 해당 Task 는 Supervised Classification이므로 Y에 해당하는 라벨 데이터가 필요합니다. 
-- train_csv 읽어오기 : 판다스
-- train_csv 에서 label 정보만 따로 가져와서 변수에 저장 : 판다스, 넘파이 
-- label이 정보가 저장되어 있는 변수에서 중복된거 모두 없애고 한개씩만 남긴 것을 따로 변수 저장  : 넘파이, unique 
-- 라벨 한개씩만 남
+
+  1.train_csv 읽어오기 : 판다스
+
+
+  2.train_csv 에서 label 정보만 따로 가져와서 변수에 저장 : 판다스, 넘파이 
+
+
+  3.2번에서 만든 변수에서 np.unique로 한개씩만 뽑아서 다른 변수에 저장 : np.unique
+
+  4. np.unique로 만든 변수를 이용해 아티스트의 이름을 숫자로 변환 해주는 dict 형태의 label encoder 생성 
+
+## 4단계 - Train-valid 분리 
+
 
 # 참고 자료 
