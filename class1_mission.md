@@ -42,4 +42,4 @@
 
 
 # 참고 자료 
-[class1_baseline.ipynb](Baseline/class1_Baseline.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/crimama/DL_competition_study/blob/main/Baseline/class1_Baseline.ipynb)
+[class1_baseline.ipynb](Baseline/class1_Baseline.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_competition_study/blob/main/Baseline/class1_Baseline.ipynb)
