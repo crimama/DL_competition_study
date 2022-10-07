@@ -28,7 +28,7 @@
 - [Keras Example](https://keras.io/examples/)
 - [케라스 공식 튜토리얼](https://keras.io/ko/)
 - [도형쌤 자료](https://github.com/dhrim/2022_DL_competition_study/blob/master/material_index.md)
-
+- [훈 대회용](https://github.com/crimama/Painter_clf) <-- 스터디와는 별개로 제가 따로 이 대회 참여용 모델링 Repo 
 
 # 진행 방법 
 
