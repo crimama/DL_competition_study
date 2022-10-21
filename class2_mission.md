@@ -19,8 +19,8 @@
   - 예시 : layers.Conv2D(filters = 32,kernel_size=3, strides=1,padding='same')
 - 모델 구성은 자유, 모델 선언 후 model.fit이 가능하게만 
 - 사용 가능 레이어 : Conv2D, BatchNormalization, Dropout, Dense,Attention 등 keras.layers에 속해 있는 모든 것 
-- [참조 1](https://github.com/dhrim/2022_DL_competition_study/blob/master/material/deep_learning/template_image_data_vanilla_cnn_classification.ipynb)
-- [참조 2](https://github.com/dhrim/2022_DL_competition_study/blob/master/material/deep_learning/template_image_data_transfer_learning_classification.ipynb)
+- [템플릿 1](https://github.com/dhrim/2022_DL_competition_study/blob/master/material/deep_learning/template_image_data_vanilla_cnn_classification.ipynb)
+- [템플릿 2](https://github.com/dhrim/2022_DL_competition_study/blob/master/material/deep_learning/template_image_data_transfer_learning_classification.ipynb)
 - 위 링크에서 **모델** 부문 참고 
 
 ## 3단계 - 학습 진행 
