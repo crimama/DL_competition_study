@@ -49,7 +49,7 @@
 
 ## 1차 : [데이터 로드 및 전처리](https://github.com/crimama/DL_competition_study/blob/main/class1_mission.md)
 
-## 2차 : 모델 구축 및 학습 (기본 베이스라인) 
+## 2차 : [모델 구축 및 학습 (기본 베이스라인)](https://github.com/crimama/DL_competition_study/blob/main/class2_mission.md) 
 
 ## 3차 : 베이스라인 디벨롭 (데이터 커스텀 제너레이터) 
 
