@@ -33,4 +33,4 @@
 - Test이미지를 읽어와서 제출하기 
 
 # 참고 
-[class1_baseline.ipynb](Baseline/class2_Baseline.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_competition_study/blob/main/Baseline/class2_Baseline.ipynb)
+[class2_baseline.ipynb](Baseline/class2_Baseline.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimama/DL_competition_study/blob/main/Baseline/class2_Baseline.ipynb)
