@@ -51,7 +51,7 @@
 
 ## 2차 : [모델 구축 및 학습 (기본 베이스라인)](https://github.com/crimama/DL_competition_study/blob/main/class2_mission.md) 
 
-## 3차 : 베이스라인 디벨롭 (데이터 커스텀 제너레이터) 
+## 3차 : [베이스라인 디벨롭 (데이터 커스텀 제너레이터)](https://github.com/crimama/DL_competition_study/blob/main/class3_mission.md)
 
 ## 4차 : 모델 디벨롭, 전이학습 Optimizer
 
