@@ -53,7 +53,7 @@
 
 ## 3차 : [베이스라인 디벨롭 (데이터 커스텀 제너레이터)](https://github.com/crimama/DL_competition_study/blob/main/class3_mission.md)
 
-## 4차 : 모델 디벨롭, 전이학습 Optimizer
+## 4차 : [모델 디벨롭, 전이학습 Optimizer](https://github.com/crimama/DL_competition_study/blob/main/class3_mission.md)
 
 ## 5차 : Augmentation 
 
